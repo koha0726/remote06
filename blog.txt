@@ -1,5 +1,5 @@
 --------------
-blog-title
+MY-BLOG!
 --------------
 
 ( apple.jpg )
