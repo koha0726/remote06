@@ -2,7 +2,7 @@
 blog-title
 --------------
 
-( header.jpg )
+( apple.jpg )
 
 MENU
 .profile
